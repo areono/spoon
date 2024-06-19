@@ -1,10 +1,7 @@
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2Fscorve12&count_bg=%2376ABAE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
-<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=435&color=%31363F&lines=Keep+your+eyes+on+the+stars;and;+your+feet+on+the+ground." alt="Typing SVG" /></a>
-
 ## 소개
-
+- 전성환
+- 조선대학교 컴퓨터공학과
+- 소프트엔지니어를 목표로 공부 중 
 
 
 ## 기술 스택
@@ -33,7 +30,7 @@
 
 | 작업명 | 소속 | 직무 | 상세 | 기간 |
 |:-----:|:------:|:------:|:------:|:------:|
-| CloneCoding | Team_Fellis57 | PM(BE) | giturl | 24.03 |
+| CloneCoding | Team_Fellis57 | BE | giturl | 24.03 |
 
  
 | 자격증명 | 취득날짜 |
